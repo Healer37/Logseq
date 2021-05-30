@@ -11,4 +11,23 @@
 :END:
 *** asdfadsgasdg左转
 **** 建设一条道路是否有什么问题在于我们的生命里面有没有这样子的回复
-****
+* #TR [🎬]([[PTM]])
+** {{提醒:42SmartBlock:fz|提醒}}
+** {{2021年目标:42SmartBlock:fz|2021年目标}}
+** {{重要事件}} [🧸]([[Theday]])
+***
+** {{打卡:42SmartBlock:fz|打卡}}
+* {{[[2x2]]}}
+** {{[[kanban]]}}
+*** [[📅 在做计划事项]]
+**** {{[[query]]: {and:[[<%CURRENTPAGENAME%>]] [[TODO]] {or:[[.td-study]] [[Life]] [[Study]] [[.td-life]]}}}}
+*** [[🌞 待做计划事项]]
+**** {{[[query]]: {and:[[TODO]] {or:[[Life]] [[Study]] [[.td-study]] [[.td-life]]} {not:[[<%CURRENTPAGENAME%>]]}}}}
+*** [[⏰ 在做其他事项]]
+**** {{[[query]]: {and:[[<%CURRENTPAGENAME%>]] [[TODO]] {or:[[.td-work]] [[Work]]}}}}
+*** [[🚮 待做其他事项]]
+**** {{[[query]]: {and:[[TODO]] {or:[[Work]] [[.td-work]]} {not:[[<%CURRENTPAGENAME%>]]}}}}
+* #PTM
+** 12:19 {{⇥🕞:42SmartBlock:Elapsed time}}
+*** 周末休息 --整理roam样式
+** {{🕗↦:42SmartBlock:Time interval button + elapsed time}}
