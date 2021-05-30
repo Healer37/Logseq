@@ -1,4 +1,12 @@
 * [[🏳‍🌈Projects]] 
 :PROPERTIES:
 :END:
-**
+** dfdf
+:PROPERTIES:
+:background-color: #497d46
+:END:
+*** afgagafg
+:PROPERTIES:
+:background-color: #793e3e
+:END:
+*** asdfadsgasdg
