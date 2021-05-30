@@ -18,7 +18,11 @@
 ***
 ** {{打卡:42SmartBlock:fz|打卡}}
 * {{[[2x2]]}}
+:PROPERTIES:
+:END:
 ** {{[[kanban]]}}
+:PROPERTIES:
+:END:
 *** [[📅 在做计划事项]]
 **** {{[[query]]: {and:[[<%CURRENTPAGENAME%>]] [[TODO]] {or:[[.td-study]] [[Life]] [[Study]] [[.td-life]]}}}}
 *** [[🌞 待做计划事项]]
