@@ -10,6 +10,9 @@
 :background-color: #793e3e
 :END:
 *** asdfadsgasdg左转
+:PROPERTIES:
+:collapsed: true
+:END:
 **** 建设一条道路是否有什么问题在于我们的生命里面有没有这样子的回复
 * #TR [🎬]([[PTM]])
 ** {{提醒:42SmartBlock:fz|提醒}}
